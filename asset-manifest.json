@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meme/static/css/main.6e40a8e2.css",
+    "main.js": "/meme/static/js/main.011c7609.js",
+    "static/js/787.966a8dd4.chunk.js": "/meme/static/js/787.966a8dd4.chunk.js",
+    "static/media/Logo.svg": "/meme/static/media/Logo.7bb8f6eaa27b3d8bd09ed406a828efca.svg",
+    "index.html": "/meme/index.html",
+    "main.6e40a8e2.css.map": "/meme/static/css/main.6e40a8e2.css.map",
+    "main.011c7609.js.map": "/meme/static/js/main.011c7609.js.map",
+    "787.966a8dd4.chunk.js.map": "/meme/static/js/787.966a8dd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e40a8e2.css",
+    "static/js/main.011c7609.js"
+  ]
+}
